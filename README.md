@@ -1,0 +1,1 @@
+# rs_npc_clothes_version
